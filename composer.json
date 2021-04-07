@@ -9,6 +9,5 @@
   "support": {
     "issues": "https://www.drupal.org/project/issues/views_field_select_filter",
     "source": "http://cgit.drupalcode.org/views_field_select_filter"
-  },
-  "require": { }
+  }
 }
